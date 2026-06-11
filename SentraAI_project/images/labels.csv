@@ -1,0 +1,13 @@
+pair_id,ground_truth,variant
+lighting_00,Lighting Change,_global_gain_bias
+lighting_01,Lighting Change,_gamma
+lighting_02,Lighting Change,_soft_shadow
+lighting_03,Lighting Change,_cloud
+lighting_04,Lighting Change,_reflection
+lighting_05,Lighting Change,_global_gain_bias
+motion_00,Real Motion,object
+motion_01,Real Motion,object+shadow
+motion_02,Real Motion,object
+motion_03,Real Motion,object+shadow
+motion_04,Real Motion,object
+motion_05,Real Motion,object+shadow
